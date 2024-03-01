@@ -1,3 +1,5 @@
+"use strict";
+
 let myMap = null;
 
 const searchBtn = document.querySelector(".search");
